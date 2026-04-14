@@ -100,7 +100,14 @@ function displayResults() {
         </li>`
     ).join('');
 
-    // 4. Show Section
+    // 4. Update Google Maps Link
+    const mapsBtn = document.getElementById('mapsBtn');
+    if (mapsBtn) {
+        mapsBtn.style.display = 'flex';
+        mapsBtn.href = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(rec.swap)}`;
+    }
+
+    // 5. Show Section
     resultsSection.classList.add('results-section--visible');
     
     // Scroll to results smoothly

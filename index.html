@@ -7,6 +7,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#7c5cfc">
+    <meta name="description" content="ContextPlate - Smart, context-driven dietary food swaps for better health. Build healthy habits with zero judgement.">
+    <meta property="og:title" content="ContextPlate | Smart Dietary Swaps">
+    <meta property="og:description" content="Adapt your diet to your mood and time of day with scientifically-backed food nudges.">
+    <meta property="og:type" content="website">
+    <meta name="google-site-verification" content="contextplate-verification-placeholder">
 </head>
 <body>
     <!-- Background Animation Elements -->
@@ -158,6 +165,13 @@
                         <div class="swap-item__desc" id="swapDesc">Magnesium + Healthy fats</div>
                     </div>
                 </div>
+                
+                <!-- Google Maps Integration Button -->
+                <div style="grid-column: 1 / -1; display: flex; justify-content: center; margin-top: -12px; margin-bottom: 12px;">
+                    <a id="mapsBtn" href="#" target="_blank" class="option-btn" style="flex-direction: row; gap: 8px; padding: 12px 24px; text-decoration: none; display: none;">
+                        <span style="font-size: 18px;">📍</span> Find Healthy Swaps Near Me
+                    </a>
+                </div>
 
                 <!-- Health Metrics -->
                 <div class="glass-card result-card result-card--metrics">
@@ -202,5 +216,14 @@
     <div id="toastContainer" class="toast-container" aria-live="polite"></div>
 
     <script type="module" src="js/ui.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./service-worker.js')
+                    .then(reg => console.log('Service Worker registered!'))
+                    .catch(err => console.log('Service Worker registration failed: ', err));
+            });
+        }
+    </script>
 </body>
 </html>

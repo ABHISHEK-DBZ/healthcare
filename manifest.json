@@ -1,0 +1,21 @@
+{
+  "name": "ContextPlate",
+  "short_name": "ContextPlate",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c5cfc",
+  "description": "Smart, Context-Driven Dietary Food Swaps.",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/wired/64/7c5cfc/healthy-food.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/wired/512/7c5cfc/healthy-food.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
