@@ -1,0 +1,1082 @@
+{
+  "stressed_sweet": {
+      "original": "Chocolate Bar",
+      "originalEmoji": "🍫",
+      "originalCal": 250,
+      "originalSugar": 24,
+      "originalNutrients": "Low fiber · High saturated fat",
+      "swap": "Dark Chocolate (70%+) with Almonds",
+      "swapEmoji": "🍫🌰",
+      "swapCal": 170,
+      "swapSugar": 12,
+      "swapNutrients": "High antioxidants · Healthy fats",
+      "scienceNote": "Dark chocolate contains flavonoids that reduce cortisol levels. The magnesium in almonds helps regulate the stress response.",
+      "benefits": [
+          "Flavonoids lower cortisol by up to 18%",
+          "Magnesium supports nervous system regulation",
+          "Healthy fats provide sustained satiety"
+      ]
+  },
+  "stressed_salty": {
+      "original": "Potato Chips",
+      "originalEmoji": "🥔",
+      "originalCal": 300,
+      "originalSugar": 0,
+      "originalNutrients": "High sodium · Fried oils",
+      "swap": "Roasted Chickpeas with Sea Salt",
+      "swapEmoji": "🫘",
+      "swapCal": 150,
+      "swapSugar": 0,
+      "swapNutrients": "High protein · High fiber",
+      "scienceNote": "The crunch satisfies the stress-chewing urge while chickpeas provide complex carbs that boost serotonin production.",
+      "benefits": [
+          "Crunchy texture mimics stress-chewing behavior",
+          "Complex carbs boost serotonin naturally",
+          "Protein provides steady energy without crashes"
+      ]
+  },
+  "stressed_crunchy": {
+      "original": "Pretzels",
+      "originalEmoji": "🥨",
+      "originalCal": 200,
+      "originalSugar": 2,
+      "originalNutrients": "Refined carbs · Low satiety",
+      "swap": "Celery Sticks with Hummus",
+      "swapEmoji": "🥬",
+      "swapCal": 100,
+      "swapSugar": 3,
+      "swapNutrients": "Fiber-rich · Plant protein",
+      "scienceNote": "The physical act of chewing crunchy vegetables reduces jaw tension associated with stress, while hummus provides tryptophan.",
+      "benefits": [
+          "Chewing reduces jaw tension by 30%",
+          "Tryptophan converts to calming serotonin",
+          "High fiber stabilizes blood sugar during stress"
+      ]
+  },
+  "stressed_creamy": {
+      "original": "Ice Cream",
+      "originalEmoji": "🍦",
+      "originalCal": 350,
+      "originalSugar": 30,
+      "originalNutrients": "High sugar · Dairy fats",
+      "swap": "Frozen Banana Nice Cream",
+      "swapEmoji": "🍌",
+      "swapCal": 120,
+      "swapSugar": 15,
+      "swapNutrients": "Potassium · Natural sweetness",
+      "scienceNote": "Frozen bananas have a creamy texture identical to soft-serve while providing potassium to counteract stress-induced mineral depletion.",
+      "benefits": [
+          "Potassium replenishment during stress",
+          "Natural sugars without insulin spikes",
+          "Creamy texture triggers comfort response"
+      ]
+  },
+  "stressed_spicy": {
+      "original": "Hot Cheetos",
+      "originalEmoji": "🔥",
+      "originalCal": 280,
+      "originalSugar": 4,
+      "originalNutrients": "Artificial dyes · Refined carbs",
+      "swap": "Spiced Pumpkin Seeds",
+      "swapEmoji": "🎃",
+      "swapCal": 140,
+      "swapSugar": 1,
+      "swapNutrients": "Zinc · Magnesium · Omega-3",
+      "scienceNote": "Capsaicin triggers endorphin release similar to stress foods, while pumpkin seeds are rich in zinc for immune support during stress.",
+      "benefits": [
+          "Endorphin release mimics stress-food high",
+          "Zinc supports immune function under stress",
+          "Omega-3s reduce inflammation from cortisol"
+      ]
+  },
+  "stressed_savory": {
+      "original": "Cheese Pizza Slice",
+      "originalEmoji": "🍕",
+      "originalCal": 285,
+      "originalSugar": 4,
+      "originalNutrients": "Refined carbs · High sodium",
+      "swap": "Sweet Potato Toast with Avocado",
+      "swapEmoji": "🍠",
+      "swapCal": 180,
+      "swapSugar": 6,
+      "swapNutrients": "Beta-carotene · Healthy fats",
+      "scienceNote": "Sweet potatoes provide complex carbs for sustained energy, while avocado fat promotes satiety and reduces stress-related overeating.",
+      "benefits": [
+          "Complex carbs stabilize mood swings",
+          "Monounsaturated fats reduce anxiety",
+          "Beta-carotene supports immune resilience"
+      ]
+  },
+  "tired_sweet": {
+      "original": "Energy Drink + Candy",
+      "originalEmoji": "⚡",
+      "originalCal": 400,
+      "originalSugar": 55,
+      "originalNutrients": "Sugar crash · Caffeine spike",
+      "swap": "Matcha Latte with Dates",
+      "swapEmoji": "🍵",
+      "swapCal": 140,
+      "swapSugar": 18,
+      "swapNutrients": "L-Theanine · Natural caffeine",
+      "scienceNote": "Matcha provides steady energy through L-Theanine and caffeine synergy, avoiding the crash cycle of sugar-heavy energy drinks.",
+      "benefits": [
+          "L-Theanine + caffeine = calm alertness",
+          "No sugar crash within 2 hours",
+          "Antioxidants support cellular energy"
+      ]
+  },
+  "tired_salty": {
+      "original": "Salted Crackers",
+      "originalEmoji": "🍘",
+      "originalCal": 220,
+      "originalSugar": 1,
+      "originalNutrients": "Refined flour · Low nutrients",
+      "swap": "Edamame with Flaky Salt",
+      "swapEmoji": "🫛",
+      "swapCal": 120,
+      "swapSugar": 2,
+      "swapNutrients": "Complete protein · Iron",
+      "scienceNote": "Edamame provides complete protein and iron to combat fatigue, while the hand-shelling activity provides a gentle energy boost.",
+      "benefits": [
+          "Iron deficiency is a top fatigue cause",
+          "Complete protein repairs muscle fatigue",
+          "Interactive eating maintains alertness"
+      ]
+  },
+  "tired_crunchy": {
+      "original": "Tortilla Chips",
+      "originalEmoji": "🌮",
+      "originalCal": 260,
+      "originalSugar": 0,
+      "originalNutrients": "Corn oil · Empty calories",
+      "swap": "Jicama Sticks with Lime",
+      "swapEmoji": "🥒",
+      "swapCal": 50,
+      "swapSugar": 3,
+      "swapNutrients": "Vitamin C · Prebiotic fiber",
+      "scienceNote": "Jicama provides inulin fiber that feeds gut bacteria linked to energy production, while the refreshing taste provides sensory stimulation.",
+      "benefits": [
+          "Inulin fiber fuels energy-producing gut bacteria",
+          "Vitamin C combats oxidative fatigue",
+          "Sensory stimulation wakes up the palate"
+      ]
+  },
+  "tired_creamy": {
+      "original": "Mac and Cheese",
+      "originalEmoji": "🧀",
+      "originalCal": 450,
+      "originalSugar": 6,
+      "originalNutrients": "Heavy carbs · Dairy fat",
+      "swap": "Greek Yogurt Parfait",
+      "swapEmoji": "🥛",
+      "swapCal": 180,
+      "swapSugar": 12,
+      "swapNutrients": "Probiotics · High protein",
+      "scienceNote": "Greek yogurt provides twice the protein of regular yogurt, supporting sustained energy, while probiotics support gut-brain energy signaling.",
+      "benefits": [
+          "20g protein provides sustained energy",
+          "Probiotics improve gut-brain communication",
+          "Lower glycemic index prevents energy crash"
+      ]
+  },
+  "tired_spicy": {
+      "original": "Spicy Ramen Cup",
+      "originalEmoji": "🍜",
+      "originalCal": 380,
+      "originalSugar": 2,
+      "originalNutrients": "High sodium · MSG",
+      "swap": "Miso Soup with Tofu",
+      "swapEmoji": "🍲",
+      "swapCal": 120,
+      "swapSugar": 3,
+      "swapNutrients": "Probiotics · Plant protein",
+      "scienceNote": "Warm broth provides hydration (dehydration causes fatigue), while miso fermentation produces B-vitamins essential for energy metabolism.",
+      "benefits": [
+          "Hydration directly combats fatigue",
+          "Fermented B-vitamins support energy production",
+          "Warmth increases blood flow and alertness"
+      ]
+  },
+  "tired_savory": {
+      "original": "Cold Fried Chicken",
+      "originalEmoji": "🍗",
+      "originalCal": 320,
+      "originalSugar": 0,
+      "originalNutrients": "Trans fats · High sodium",
+      "swap": "Turkey & Avocado Lettuce Wraps",
+      "swapEmoji": "🥬",
+      "swapCal": 160,
+      "swapSugar": 2,
+      "swapNutrients": "Tryptophan · B-vitamins",
+      "scienceNote": "Turkey provides tryptophan for alertness without the heavy digestion burden of fried foods that worsens fatigue.",
+      "benefits": [
+          "Easy digestion preserves energy",
+          "Tryptophan supports wakefulness cycles",
+          "B-vitamins are essential for energy metabolism"
+      ]
+  },
+  "bored_sweet": {
+      "original": "Gummy Bears",
+      "originalEmoji": "🐻",
+      "originalCal": 230,
+      "originalSugar": 36,
+      "originalNutrients": "Pure sugar · Artificial colors",
+      "swap": "Frozen Grapes",
+      "swapEmoji": "🍇",
+      "swapCal": 90,
+      "swapSugar": 20,
+      "swapNutrients": "Resveratrol · Fiber",
+      "scienceNote": "Frozen grapes take longer to eat, providing extended engagement for boredom, while resveratrol supports brain health.",
+      "benefits": [
+          "Extended eating time satisfies boredom",
+          "Resveratrol supports cognitive function",
+          "Natural fiber slows sugar absorption"
+      ]
+  },
+  "bored_salty": {
+      "original": "Cheese Puffs",
+      "originalEmoji": "🧀",
+      "originalCal": 250,
+      "originalSugar": 1,
+      "originalNutrients": "Artificial flavors · Refined carbs",
+      "swap": "Air-Popped Popcorn with Nutritional Yeast",
+      "swapEmoji": "🍿",
+      "swapCal": 110,
+      "swapSugar": 0,
+      "swapNutrients": "Whole grain · B-vitamins",
+      "scienceNote": "The high volume-to-calorie ratio of popcorn provides extended eating satisfaction, addressing the boredom-driven desire for prolonged snacking.",
+      "benefits": [
+          "3 cups for only 110 calories",
+          "Whole grains support sustained fullness",
+          "Nutritional yeast adds cheesy B-vitamin flavor"
+      ]
+  },
+  "bored_crunchy": {
+      "original": "Stale Cereal",
+      "originalEmoji": "🥣",
+      "originalCal": 200,
+      "originalSugar": 12,
+      "originalNutrients": "Fortified but sugary",
+      "swap": "Trail Mix (Nuts + Seeds)",
+      "swapEmoji": "🥜",
+      "swapCal": 180,
+      "swapSugar": 4,
+      "swapNutrients": "Omega-3 · Vitamin E",
+      "scienceNote": "The variety in trail mix provides sensory diversity to combat boredom, while healthy fats support brain function during idle moments.",
+      "benefits": [
+          "Sensory variety combats boredom eating",
+          "Omega-3s support cognitive health",
+          "Vitamin E protects brain cell membranes"
+      ]
+  },
+  "bored_creamy": {
+      "original": "Pudding Cup",
+      "originalEmoji": "🍮",
+      "originalCal": 180,
+      "originalSugar": 22,
+      "originalNutrients": "Artificial flavors · Corn starch",
+      "swap": "Chia Seed Pudding with Berries",
+      "swapEmoji": "🫐",
+      "swapCal": 150,
+      "swapSugar": 10,
+      "swapNutrients": "Omega-3 · Fiber · Antioxidants",
+      "scienceNote": "Chia pudding requires preparation time (engagement for boredom), and provides omega-3s that support mood regulation during idle periods.",
+      "benefits": [
+          "Preparation engagement satisfies boredom",
+          "11g fiber promotes digestive health",
+          "Anthocyanins in berries improve mood"
+      ]
+  },
+  "bored_spicy": {
+      "original": "Spicy Nachos",
+      "originalEmoji": "🌶️",
+      "originalCal": 400,
+      "originalSugar": 3,
+      "originalNutrients": "Refined carbs · Excess sodium",
+      "swap": "Spiced Roasted Edamame",
+      "swapEmoji": "🌶️🫛",
+      "swapCal": 130,
+      "swapSugar": 1,
+      "swapNutrients": "Complete protein · Fiber",
+      "scienceNote": "The spice provides sensory stimulation to combat boredom, while edamame offers a complete protein profile for sustained satisfaction.",
+      "benefits": [
+          "Spice triggers dopamine release",
+          "Complete protein provides lasting satisfaction",
+          "Hand-shelling keeps you engaged"
+      ]
+  },
+  "bored_savory": {
+      "original": "Sausage Roll",
+      "originalEmoji": "🌭",
+      "originalCal": 350,
+      "originalSugar": 3,
+      "originalNutrients": "Processed meat · Saturated fat",
+      "swap": "Stuffed Mushrooms with Herbs",
+      "swapEmoji": "🍄",
+      "swapCal": 80,
+      "swapSugar": 2,
+      "swapNutrients": "Umami · B-vitamins",
+      "scienceNote": "Mushrooms provide deep umami flavor that satisfies savory cravings while being naturally low-calorie and rich in B-vitamins.",
+      "benefits": [
+          "Umami satisfaction without heavy calories",
+          "B-vitamins support nervous system health",
+          "Complex preparation engages boredom"
+      ]
+  },
+  "anxious_sweet": {
+      "original": "Sugary Donut",
+      "originalEmoji": "🍩",
+      "originalCal": 450,
+      "originalSugar": 22,
+      "originalNutrients": "Refined carbs · Trans fat",
+      "swap": "Oatmeal Cookie (Oats + Banana)",
+      "swapEmoji": "🍪",
+      "swapCal": 130,
+      "swapSugar": 8,
+      "swapNutrients": "Beta-glucan · Potassium",
+      "scienceNote": "Oats contain beta-glucan fiber that supports gut health linked to anxiety reduction, while bananas provide calming magnesium.",
+      "benefits": [
+          "Beta-glucan supports gut-brain anxiety axis",
+          "Magnesium in banana reduces anxiety symptoms",
+          "Complex carbs stabilize mood fluctuations"
+      ]
+  },
+  "anxious_salty": {
+      "original": "Salted Peanuts",
+      "originalEmoji": "🥜",
+      "originalCal": 290,
+      "originalSugar": 1,
+      "originalNutrients": "Good fats but heavy sodium",
+      "swap": "Cucumber Slices with Tzatziki",
+      "swapEmoji": "🥒",
+      "swapCal": 70,
+      "swapSugar": 4,
+      "swapNutrients": "Hydration · Probiotics",
+      "scienceNote": "Cucumber provides hydration (anxiety causes dry mouth), while the probiotics in tzatziki support the gut-brain axis for anxiety management.",
+      "benefits": [
+          "Hydration reduces anxiety-related dry mouth",
+          "Probiotics support gut-brain anxiety regulation",
+          "Cooling sensation has calming effect"
+      ]
+  },
+  "anxious_crunchy": {
+      "original": "Hard Pretzels",
+      "originalEmoji": "🥨",
+      "originalCal": 210,
+      "originalSugar": 3,
+      "originalNutrients": "Simple carbs · Low satiety",
+      "swap": "Apple Slices with Peanut Butter",
+      "swapEmoji": "🍎",
+      "swapCal": 180,
+      "swapSugar": 14,
+      "swapNutrients": "Fiber · Healthy fats",
+      "scienceNote": "The repetitive crunching motion of apple slices provides a soothing, meditative quality that reduces anxiety-driven nervous energy.",
+      "benefits": [
+          "Repetitive crunching reduces nervous energy",
+          "Fiber stabilizes anxiety-inducing blood sugar swings",
+          "Healthy fats support brain serotonin production"
+      ]
+  },
+  "anxious_creamy": {
+      "original": "Milkshake",
+      "originalEmoji": "🥤",
+      "originalCal": 500,
+      "originalSugar": 45,
+      "originalNutrients": "Extreme sugar · Dairy fat",
+      "swap": "Golden Milk (Turmeric Latte)",
+      "swapEmoji": "🥛✨",
+      "swapCal": 120,
+      "swapSugar": 8,
+      "swapNutrients": "Curcumin · Anti-inflammatory",
+      "scienceNote": "Curcumin in turmeric has been shown in studies to reduce anxiety symptoms by modulating neurotransmitters and reducing inflammation.",
+      "benefits": [
+          "Curcumin reduces anxiety biomarkers by 25%",
+          "Warm liquid triggers parasympathetic calm",
+          "Low sugar prevents anxiety-triggering spikes"
+      ]
+  },
+  "anxious_spicy": {
+      "original": "Hot Sauce on Everything",
+      "originalEmoji": "🌶️",
+      "originalCal": 0,
+      "originalSugar": 0,
+      "originalNutrients": "Capsaicin · Acidic",
+      "swap": "Ginger Tea with Honey",
+      "swapEmoji: ": "🫚",
+      "swapCal": 40,
+      "swapSugar": 6,
+      "swapNutrients": "Gingerol · Anti-nausea",
+      "scienceNote": "Ginger provides warming sensation similar to spice while calming anxiety-induced stomach upset through its anti-nausea properties.",
+      "benefits": [
+          "Warming sensation without acid reflux",
+          "Calms anxiety-induced stomach discomfort",
+          "Gingerol has anti-inflammatory anxiety benefits"
+      ]
+  },
+  "anxious_savory": {
+      "original": "Grilled Cheese Sandwich",
+      "originalEmoji": "🥪",
+      "originalCal": 400,
+      "originalSugar": 4,
+      "originalNutrients": "White bread · Processed cheese",
+      "swap": "Sourdough Toast with Ricotta & Herbs",
+      "swapEmoji": "🍞",
+      "swapCal": 190,
+      "swapSugar": 2,
+      "swapNutrients": "Probiotics · Complete protein",
+      "scienceNote": "Sourdough fermentation reduces gluten and FODMAPs that can trigger anxiety-related digestive issues, while providing calming tryptophan.",
+      "benefits": [
+          "Fermentation reduces anxiety-triggering FODMAPs",
+          "Tryptophan supports calming neurotransmitter production",
+          "Probiotics improve gut-brain anxiety signaling"
+      ]
+  },
+  "happy_sweet": {
+      "original": "Cupcake",
+      "originalEmoji": "🧁",
+      "originalCal": 350,
+      "originalSugar": 35,
+      "originalNutrients": "Buttercream · Refined sugar",
+      "swap": "Berry Smoothie Bowl",
+      "swapEmoji": "🫐",
+      "swapCal": 180,
+      "swapSugar": 16,
+      "swapNutrients": "Antioxidants · Fiber",
+      "scienceNote": "Celebratory moments deserve special treats. Berry smoothie bowls provide the visual appeal and sweetness while delivering mood-enhancing antioxidants.",
+      "benefits": [
+          "Anthocyanins enhance positive mood states",
+          "Vibrant colors match celebratory energy",
+          "Natural sweetness without artificial additives"
+      ]
+  },
+  "happy_salty": {
+      "original": "French Fries",
+      "originalEmoji": "🍟",
+      "originalCal": 365,
+      "originalSugar": 0,
+      "originalNutrients": "Fried oil · High sodium",
+      "swap": "Sweet Potato Fries (Baked)",
+      "swapEmoji": "🍠",
+      "swapCal": 160,
+      "swapSugar": 7,
+      "swapNutrients": "Beta-carotene · Fiber",
+      "scienceNote": "Baked sweet potato fries provide the same social snacking experience while delivering nutrients that support sustained positive mood.",
+      "benefits": [
+          "Beta-carotene supports sustained positive mood",
+          "Fiber prevents energy crash after celebration",
+          "Baked instead of fried reduces inflammation"
+      ]
+  },
+  "happy_crunchy": {
+      "original": "Taco Shells",
+      "originalEmoji": "🌮",
+      "originalCal": 230,
+      "originalSugar": 0,
+      "originalNutrients": "Corn masa · Fried",
+      "swap": "Jicama Wraps with Guacamole",
+      "swapEmoji": "🥑",
+      "swapCal": 140,
+      "swapSugar": 3,
+      "swapNutrients": "Healthy fats · Fiber",
+      "scienceNote": "Jicama provides an unexpected crunchy texture that enhances the celebratory experience while being naturally hydrating and low-calorie.",
+      "benefits": [
+          "Unique texture enhances celebration experience",
+          "Healthy fats support brain chemistry for happiness",
+          "High water content keeps you refreshed"
+      ]
+  },
+  "happy_creamy": {
+      "original": "Cheesecake",
+      "originalEmoji": "🍰",
+      "originalCal": 450,
+      "originalSugar": 30,
+      "originalNutrients": "Cream cheese · Graham crust",
+      "swap": "Avocado Chocolate Mousse",
+      "swapEmoji": "🥑🍫",
+      "swapCal": 180,
+      "swapSugar": 10,
+      "swapNutrients": "Healthy fats · Magnesium",
+      "scienceNote": "Avocado provides the creamy richness of cheesecake while delivering heart-healthy fats and magnesium that support sustained positive mood.",
+      "benefits": [
+          "Monounsaturated fats support brain health",
+          "Magnesium enhances mood regulation",
+          "Plant-based creaminess is easier to digest"
+      ]
+  },
+  "happy_spicy": {
+      "original": "Buffalo Wings",
+      "originalEmoji": "🍗",
+      "originalCal": 430,
+      "originalSugar": 2,
+      "originalNutrients": "Fried · High sodium",
+      "swap": "Spiced Roasted Chickpeas",
+      "swapEmoji": "🌶️🫘",
+      "swapCal": 150,
+      "swapSugar": 2,
+      "swapNutrients": "Protein · Fiber · Spices",
+      "scienceNote": "The spice kick of buffalo wings can be matched with roasted chickpeas while providing protein that supports sustained energy during social events.",
+      "benefits": [
+          "Spice triggers dopamine for enhanced celebration",
+          "Protein supports sustained social energy",
+          "High fiber prevents post-event energy crash"
+      ]
+  },
+  "happy_savory": {
+      "original": "Burger & Fries",
+      "originalEmoji": "🍔",
+      "originalCal": 650,
+      "originalSugar": 5,
+      "originalNutrients": "Heavy meal · Saturated fat",
+      "swap": "Turkey Burger Lettuce Wrap",
+      "swapEmoji": "🦃",
+      "swapCal": 280,
+      "swapSugar": 3,
+      "swapNutrients": "Lean protein · Iron",
+      "scienceNote": "Turkey provides lean protein that supports sustained celebration energy without the heavy digestion that can dampen happy mood.",
+      "benefits": [
+          "Lean protein supports sustained energy",
+          "Lighter digestion maintains positive mood",
+          "Iron supports oxygen transport for vitality"
+      ]
+  },
+  "focused_sweet": {
+      "original": "Candy Bar",
+      "originalEmoji": "🍬",
+      "originalCal": 260,
+      "originalSugar": 28,
+      "originalNutrients": "Sugar spike · Crash imminent",
+      "swap": "Walnuts & Dark Chocolate Bits",
+      "swapEmoji": "🌰",
+      "swapCal": 160,
+      "swapSugar": 8,
+      "swapNutrients": "Omega-3 · Antioxidants",
+      "scienceNote": "Walnuts are shaped like brains for a reason - they are rich in DHA omega-3s that directly support cognitive function and sustained focus.",
+      "benefits": [
+          "DHA omega-3s directly support cognitive function",
+          "No sugar crash preserves focus for hours",
+          "Polyphenols enhance memory consolidation"
+      ]
+  },
+  "focused_salty": {
+      "original": "Salted Nuts (Large Bag)",
+      "originalEmoji": "🥜",
+      "originalCal": 500,
+      "originalSugar": 2,
+      "originalNutrients": "Good fats but easy to overeat",
+      "swap": "Roasted Seaweed Snacks",
+      "swapEmoji": "🌊",
+      "swapCal": 30,
+      "swapSugar": 0,
+      "swapNutrients": "Iodine · Minerals",
+      "scienceNote": "Seaweed provides iodine essential for thyroid function, which regulates metabolism and cognitive processing speed during focused work.",
+      "benefits": [
+          "Iodine supports thyroid-cognitive function",
+          "Ultra-low calories prevent heavy digestion",
+          "Minerals support neural signal transmission"
+      ]
+  },
+  "focused_crunchy": {
+      "original": "Granola Bar",
+      "originalEmoji": "🍫",
+      "originalCal": 220,
+      "originalSugar": 14,
+      "originalNutrients": "Oats but bound with sugar",
+      "swap": "Raw Almonds (Small Portion)",
+      "swapEmoji": "🌰",
+      "swapCal": 160,
+      "swapSugar": 1,
+      "swapNutrients": "Vitamin E · Magnesium",
+      "scienceNote": "The controlled crunch of almonds provides sensory satisfaction without the sugar disruption to sustained cognitive focus.",
+      "benefits": [
+          "Vitamin E protects brain cell membranes",
+          "Magnesium supports focused attention",
+          "Low glycemic index maintains steady cognition"
+      ]
+  },
+  "focused_creamy": {
+      "original": "Cream Cheese Bagel",
+      "originalEmoji": "🥯",
+      "originalCal": 380,
+      "originalSugar": 6,
+      "originalNutrients": "Refined carbs · Heavy cream",
+      "swap": "Cottage Cheese with Berries",
+      "swapEmoji": "🫐",
+      "swapCal": 150,
+      "swapSugar": 8,
+      "swapNutrients": "Casein protein · Antioxidants",
+      "scienceNote": "Cottage cheese provides slow-release casein protein that fuels sustained cognitive work without the heavy digestion that causes focus fatigue.",
+      "benefits": [
+          "Casein protein provides slow-release cognitive fuel",
+          "Berries improve working memory performance",
+          "Lighter digestion prevents focus fatigue"
+      ]
+  },
+  "focused_spicy": {
+      "original": "Spicy Ramen",
+      "originalEmoji": "🍜",
+      "originalCal": 400,
+      "originalSugar": 3,
+      "originalNutrients": "High sodium · MSG",
+      "swap": "Spicy Black Bean Soup",
+      "swapEmoji": "🫘",
+      "swapCal": 200,
+      "swapSugar": 2,
+      "swapNutrients": "Fiber · Iron · Folate",
+      "scienceNote": "Black beans provide folate essential for neurotransmitter synthesis, supporting the brain chemistry required for sustained focused work.",
+      "benefits": [
+          "Folate supports neurotransmitter production",
+          "Iron ensures oxygen delivery to working brain",
+          "Fiber prevents blood sugar disruption to focus"
+      ]
+  },
+  "focused_savory": {
+      "original": "Meat Pie",
+      "originalEmoji": "🥧",
+      "originalCal": 450,
+      "originalSugar": 2,
+      "originalNutrients": "Pastry fat · Heavy protein",
+      "swap": "Sardines on Whole Grain Crackers",
+      "swapEmoji": "🐟",
+      "swapCal": 200,
+      "swapSugar": 2,
+      "swapNutrients": "Omega-3 · Vitamin D",
+      "scienceNote": "Sardines are one of the richest sources of EPA/DHA omega-3s, which have been shown to improve concentration and working memory by 25%.",
+      "benefits": [
+          "EPA/DHA improve concentration by 25%",
+          "Vitamin D supports cognitive function",
+          "Lean protein prevents post-meal brain fog"
+      ]
+  },
+  "morning_sweet": {
+      "original": "Pastry & Coffee",
+      "originalEmoji": "🥐",
+      "originalCal": 380,
+      "originalSugar": 18,
+      "originalNutrients": "Butter · Refined sugar",
+      "swap": "Chia Pudding with Fruit",
+      "swapEmoji": "🫐",
+      "swapCal": 180,
+      "swapSugar": 10,
+      "swapNutrients": "Omega-3 · Fiber",
+      "scienceNote": "Morning chia pudding provides sustained energy release through fiber, setting a stable glycemic foundation for the day ahead.",
+      "benefits": [
+          "Fiber stabilizes morning blood sugar baseline",
+          "Omega-3s support morning cognitive function",
+          "Prep-ahead convenience supports routine"
+      ]
+  },
+  "morning_salty": {
+      "original": "Breakfast Sausage",
+      "originalEmoji": "🌭",
+      "originalCal": 250,
+      "originalSugar": 1,
+      "originalNutrients": "Processed meat · Saturated fat",
+      "swap": "Smoked Salmon on Cucumber",
+      "swapEmoji": "🐟",
+      "swapCal": 100,
+      "swapSugar": 1,
+      "swapNutrients": "Omega-3 · Protein",
+      "scienceNote": "Morning omega-3s from salmon support brain function throughout the day, while the light protein won't cause morning sluggishness.",
+      "benefits": [
+          "Morning omega-3s support all-day cognition",
+          "Light protein prevents morning energy dip",
+          "Hydrating cucumber offsets coffee dehydration"
+      ]
+  },
+  "morning_crunchy": {
+      "original": "Sugary Cereal",
+      "originalEmoji": "🥣",
+      "originalCal": 220,
+      "originalSugar": 16,
+      "originalNutrients": "Fortified but sugar-heavy",
+      "swap": "Toasted Oats with Cinnamon",
+      "swapEmoji": "🌾",
+      "swapCal": 160,
+      "swapSugar": 3,
+      "swapNutrients": "Beta-glucan · Fiber",
+      "scienceNote": "Cinnamon helps regulate morning blood sugar response, while toasted oats provide the crunch without the sugar crash.",
+      "benefits": [
+          "Cinnamon improves insulin sensitivity",
+          "Beta-glucan provides sustained morning energy",
+          "Crunch satisfaction without sugar disruption"
+      ]
+  },
+  "morning_creamy": {
+      "original": "Fruit Smoothie (Store)",
+      "originalEmoji": "🥤",
+      "originalCal": 350,
+      "originalSugar": 45,
+      "originalNutrients": "Fruit juice concentrate",
+      "swap": "Protein Smoothie (Greek Yogurt Base)",
+      "swapEmoji": "🥛",
+      "swapCal": 200,
+      "swapSugar": 12,
+      "swapNutrients": "20g protein · Probiotics",
+      "scienceNote": "Greek yogurt base provides protein to start muscle protein synthesis in the morning, while probiotics support digestive readiness for the day.",
+      "benefits": [
+          "20g protein kickstarts morning metabolism",
+          "Probiotics prepare digestion for the day",
+          "Lower sugar prevents mid-morning crash"
+      ]
+  },
+  "morning_spicy": {
+      "original": "Spicy Breakfast Burrito",
+      "originalEmoji": "🌯",
+      "originalCal": 550,
+      "originalSugar": 4,
+      "originalNutrients": "Heavy carbs · Processed cheese",
+      "swap": "Spiced Shakshuka Eggs",
+      "swapEmoji": "🍳",
+      "swapCal": 250,
+      "swapSugar": 6,
+      "swapNutrients": "Complete protein · Lycopene",
+      "scienceNote": "Eggs provide choline essential for morning cognitive function, while tomato lycopene in shakshuka is better absorbed with morning fats.",
+      "benefits": [
+          "Choline supports morning memory function",
+          "Lycopene absorption enhanced with morning fats",
+          "Lighter than burrito, no mid-morning slump"
+      ]
+  },
+  "morning_savory": {
+      "original": "Bacon & Eggs",
+      "originalEmoji": "🥓",
+      "originalCal": 450,
+      "originalSugar": 1,
+      "originalNutrients": "Saturated fat · Sodium",
+      "swap": "Avocado Toast with Poached Egg",
+      "swapEmoji": "🥑",
+      "swapCal": 280,
+      "swapSugar": 2,
+      "swapNutrients": "Healthy fats · Complete protein",
+      "scienceNote": "Avocado provides monounsaturated fats that support sustained morning energy, while the poached egg provides choline without added saturated fat.",
+      "benefits": [
+          "Monounsaturated fats support morning metabolism",
+          "Choline for cognitive function without heavy fat",
+          "Complex carbs from toast provide steady energy"
+      ]
+  },
+  "afternoon_sweet": {
+      "original": "Afternoon Cookie",
+      "originalEmoji": "🍪",
+      "originalCal": 220,
+      "originalSugar": 18,
+      "originalNutrients": "Butter · Refined sugar",
+      "swap": "Apple with Almond Butter",
+      "swapEmoji": "🍎",
+      "swapCal": 200,
+      "swapSugar": 16,
+      "swapNutrients": "Fiber · Healthy fats",
+      "scienceNote": "The afternoon energy dip is natural. Apple fiber with almond butter fat provides sustained energy without the sugar spike and crash.",
+      "benefits": [
+          "Fiber + fat combo prevents 3pm energy crash",
+          "Natural pectin fiber supports digestion",
+          "Healthy fats sustain energy for hours"
+      ]
+  },
+  "afternoon_salty": {
+      "original": "Pretzel Rods",
+      "originalEmoji": "🥨",
+      "originalCal": 230,
+      "originalSugar": 4,
+      "originalNutrients": "Refined wheat · Sodium",
+      "swap": "Olives & Cherry Tomatoes",
+      "swapEmoji": "🫒",
+      "swapCal": 90,
+      "swapSugar": 3,
+      "swapNutrients": "Oleic acid · Lycopene",
+      "scienceNote": "Olives provide oleic acid that supports afternoon alertness, while tomatoes offer lycopene that protects against afternoon UV exposure.",
+      "benefits": [
+          "Oleic acid supports sustained afternoon alertness",
+          "Lycopene provides afternoon UV protection",
+          "Low calorie prevents post-lunch energy dip"
+      ]
+  },
+  "afternoon_crunchy": {
+      "original": "Crackers & Cheese",
+      "originalEmoji": "🧀",
+      "originalCal": 280,
+      "originalSugar": 2,
+      "originalNutrients": "Refined carbs · Saturated fat",
+      "swap": "Bell Pepper Strips with Hummus",
+      "swapEmoji": "🫑",
+      "swapCal": 120,
+      "swapSugar": 5,
+      "swapNutrients": "Vitamin C · Plant protein",
+      "scienceNote": "Bell peppers contain more vitamin C than oranges, supporting afternoon immune function and reducing the oxidative stress of afternoon work.",
+      "benefits": [
+          "High vitamin C combats afternoon fatigue",
+          "Crunchy texture satisfies afternoon snacking urge",
+          "Plant protein provides sustained energy"
+      ]
+  },
+  "afternoon_creamy": {
+      "original": "Yogurt with Granola",
+      "originalEmoji": "🥛",
+      "originalCal": 290,
+      "originalSugar": 24,
+      "originalNutrients": "Added sugar · Granola clusters",
+      "swap": "Skyr with Cinnamon & Walnuts",
+      "swapEmoji": "🥛",
+      "swapCal": 160,
+      "swapSugar": 6,
+      "swapNutrients": "High protein · Omega-3",
+      "scienceNote": "Skyr provides nearly double the protein of regular yogurt, supporting afternoon muscle maintenance and sustained energy without sugar crash.",
+      "benefits": [
+          "20g protein prevents afternoon energy crash",
+          "Cinnamon stabilizes afternoon blood sugar",
+          "Omega-3s support afternoon cognitive function"
+      ]
+  },
+  "afternoon_spicy": {
+      "original": "Spicy Quesadilla",
+      "originalEmoji": "🌶️",
+      "originalCal": 450,
+      "originalSugar": 3,
+      "originalNutrients": "Flour tortilla · Cheese",
+      "swap": "Spicy Roasted Chickpeas",
+      "swapEmoji": "🌶️🫘",
+      "swapCal": 150,
+      "swapSugar": 2,
+      "swapNutrients": "Fiber · Plant protein",
+      "scienceNote": "The capsaicin in spicy chickpeas provides an afternoon metabolism boost while the fiber prevents the typical post-lunch energy slump.",
+      "benefits": [
+          "Capsaicin boosts afternoon metabolism",
+          "Fiber prevents post-lunch energy slump",
+          "Plant protein sustains afternoon energy"
+      ]
+  },
+  "afternoon_savory": {
+      "original": "Leftover Pizza",
+      "originalEmoji": "🍕",
+      "originalCal": 285,
+      "originalSugar": 4,
+      "originalNutrients": "Cold cheese · Stale crust",
+      "swap": "Edamame with Everything Bagel Seasoning",
+      "swapEmoji": "🫛",
+      "swapCal": 130,
+      "swapSugar": 2,
+      "swapNutrients": "Complete protein · Iron",
+      "scienceNote": "Edamame provides complete protein and iron to combat the afternoon energy dip, while everything seasoning satisfies the savory craving.",
+      "benefits": [
+          "Iron combats afternoon fatigue directly",
+          "Complete protein repairs afternoon muscle fatigue",
+          "Everything seasoning satisfies savory craving"
+      ]
+  },
+  "evening_sweet": {
+      "original": "Dessert Pie Slice",
+      "originalEmoji": "🥧",
+      "originalCal": 400,
+      "originalSugar": 28,
+      "originalNutrients": "Butter crust · Sugar filling",
+      "swap": "Baked Apple with Cinnamon",
+      "swapEmoji": "🍎",
+      "swapCal": 120,
+      "swapSugar": 16,
+      "swapNutrients": "Fiber · Antioxidants",
+      "scienceNote": "Warm baked apples provide the comforting dessert experience while the cinnamon helps regulate evening blood sugar for better sleep quality.",
+      "benefits": [
+          "Warmth provides comforting dessert experience",
+          "Cinnamon supports evening blood sugar regulation",
+          "Fiber aids digestion before sleep"
+      ]
+  },
+  "evening_salty": {
+      "original": "Salted Nuts Bowl",
+      "originalEmoji": "🥜",
+      "originalCal": 400,
+      "originalSugar": 2,
+      "originalNutrients": "Good fats but heavy",
+      "swap": "Air-Popped Popcorn with Herbs",
+      "swapEmoji": "🍿",
+      "swapCal": 80,
+      "swapSugar": 0,
+      "swapNutrients": "Whole grain · Light",
+      "scienceNote": "Light popcorn satisfies the evening hand-to-mouth snacking habit without the heavy digestion that can disrupt evening wind-down.",
+      "benefits": [
+          "Light enough for evening digestion",
+          "Whole grain supports serotonin production for sleep",
+          "Volume eating satisfies without calories"
+      ]
+  },
+  "evening_crunchy": {
+      "original": "Nachos",
+      "originalEmoji": "🌮",
+      "originalCal": 500,
+      "originalSugar": 2,
+      "originalNutrients": "Fried chips · Cheese sauce",
+      "swap": "Kale Chips with Nutritional Yeast",
+      "swapEmoji": "🥬",
+      "swapCal": 70,
+      "swapSugar": 1,
+      "swapNutrients": "Vitamin K · Calcium",
+      "scienceNote": "Kale chips provide the satisfying crunch of nachos while being light enough for evening digestion, and vitamin K supports evening calcium absorption.",
+      "benefits": [
+          "Crunch satisfaction without heavy digestion",
+          "Vitamin K supports evening calcium metabolism",
+          "Nutritional yeast provides cheesy B-vitamin flavor"
+      ]
+  },
+  "evening_creamy": {
+      "original": "Chocolate Pudding",
+      "originalEmoji": "🍫",
+      "originalCal": 280,
+      "originalSugar": 28,
+      "originalNutrients": "Corn starch · Artificial flavor",
+      "swap": "Warm Milk with Turmeric",
+      "swapEmoji": "🥛",
+      "swapCal": 100,
+      "swapSugar": 8,
+      "swapNutrients": "Tryptophan · Anti-inflammatory",
+      "scienceNote": "Warm milk with turmeric is an ancient sleep aid. Tryptophan converts to melatonin while curcumin reduces evening inflammation.",
+      "benefits": [
+          "Tryptophan converts to sleep-promoting melatonin",
+          "Curcumin reduces evening inflammation",
+          "Warm liquid triggers parasympathetic relaxation"
+      ]
+  },
+  "evening_spicy": {
+      "original": "Spicy Curry",
+      "originalEmoji": "🍛",
+      "originalCal": 450,
+      "originalSugar": 6,
+      "originalNutrients": "Heavy cream · Coconut milk",
+      "swap": "Spiced Lentil Soup",
+      "swapEmoji": "🍲",
+      "swapCal": 180,
+      "swapSugar": 3,
+      "swapNutrients": "Fiber · Iron · Folate",
+      "scienceNote": "Warm lentil soup provides the evening spice comfort while being light enough for digestion, and tryptophan supports evening sleep preparation.",
+      "benefits": [
+          "Warmth provides comfort for evening wind-down",
+          "Fiber supports overnight digestive processes",
+          "Tryptophan prepares body for sleep"
+      ]
+  },
+  "evening_savory": {
+      "original": "Steak Dinner",
+      "originalEmoji": "🥩",
+      "originalCal": 550,
+      "originalSugar": 0,
+      "originalNutrients": "High protein · Saturated fat",
+      "swap": "Baked Salmon with Asparagus",
+      "swapEmoji": "🐟",
+      "swapCal": 280,
+      "swapSugar": 2,
+      "swapNutrients": "Omega-3 · Melatonin precursors",
+      "scienceNote": "Salmon provides omega-3s that support melatonin production, while being lighter than red meat for evening digestion and sleep quality.",
+      "benefits": [
+          "Omega-3s support melatonin production",
+          "Lighter protein digests better before sleep",
+          "Asparagus contains sleep-promoting folate"
+      ]
+  },
+  "latenight_sweet": {
+      "original": "Midnight Ice Cream",
+      "originalEmoji": "🍦",
+      "originalCal": 350,
+      "originalSugar": 30,
+      "originalNutrients": "Sugar spike · Sleep disruptor",
+      "swap": "Tart Cherry Juice (Small Glass)",
+      "swapEmoji": "🍒",
+      "swapCal": 100,
+      "swapSugar": 18,
+      "swapNutrients": "Melatonin · Antioxidants",
+      "scienceNote": "Tart cherries are one of the few natural food sources of melatonin. A small glass can improve sleep quality by up to 90 minutes.",
+      "benefits": [
+          "Natural melatonin improves sleep duration by 90min",
+          "Antioxidants reduce overnight oxidative stress",
+          "Small portion prevents sleep-disrupting digestion"
+      ]
+  },
+  "latenight_salty": {
+      "original": "Late Night Chips",
+      "originalEmoji": "🥔",
+      "originalCal": 300,
+      "originalSugar": 0,
+      "originalNutrients": "Sodium · Fried",
+      "swap": "Warm Bone Broth",
+      "swapEmoji": "🍵",
+      "swapCal": 50,
+      "swapSugar": 1,
+      "swapNutrients": "Collagen · Glycine",
+      "scienceNote": "Bone broth provides glycine, an amino acid that has been shown to improve sleep quality and reduce the time it takes to fall asleep.",
+      "benefits": [
+          "Glycine improves sleep onset by 30 minutes",
+          "Warm liquid triggers relaxation response",
+          "Low calorie prevents sleep disruption"
+      ]
+  },
+  "latenight_crunchy": {
+      "original": "Late Night Cereal",
+      "originalEmoji": "🥣",
+      "originalCal": 250,
+      "originalSugar": 18,
+      "originalNutrients": "Sugar · Refined carbs",
+      "swap": "Rice Cakes with Almond Butter",
+      "swapEmoji": "🍚",
+      "swapCal": 140,
+      "swapSugar": 3,
+      "swapNutrients": "Complex carbs · Healthy fats",
+      "scienceNote": "The complex carbs in rice cakes support tryptophan conversion to serotonin and melatonin, while almond butter provides calming magnesium.",
+      "benefits": [
+          "Complex carbs support melatonin production",
+          "Magnesium in almond butter calms nervous system",
+          "Light enough for late-night digestion"
+      ]
+  },
+  "latenight_creamy": {
+      "original": "Milk & Cookies",
+      "originalEmoji": "🥛",
+      "originalCal": 350,
+      "originalSugar": 25,
+      "originalNutrients": "Sugar · Dairy",
+      "swap": "Chamomile Tea with Honey",
+      "swapEmoji": "🍵",
+      "swapCal": 40,
+      "swapSugar": 6,
+      "swapNutrients": "Apigenin · Luteolin",
+      "scienceNote": "Chamomile contains apigenin, an antioxidant that binds to brain receptors promoting sleepiness and reducing insomnia.",
+      "benefits": [
+          "Apigenin binds to sleep-promoting brain receptors",
+          "Warm liquid triggers parasympathetic relaxation",
+          "Minimal sugar prevents sleep disruption"
+      ]
+  },
+  "latenight_spicy": {
+      "original": "Late Night Tacos",
+      "originalEmoji": "🌮",
+      "originalCal": 400,
+      "originalSugar": 3,
+      "originalNutrients": "Heavy · Spicy",
+      "swap": "Ginger Tea with Lemon",
+      "swapEmoji": "🫚",
+      "swapCal": 15,
+      "swapSugar": 1,
+      "swapNutrients": "Gingerol · Vitamin C",
+      "scienceNote": "Late night spice can cause acid reflux and sleep disruption. Ginger tea provides warmth without the digestive irritation.",
+      "benefits": [
+          "No acid reflux risk before sleep",
+          "Warmth provides comfort without calories",
+          "Gingerol aids overnight digestion"
+      ]
+  },
+  "latenight_savory": {
+      "original": "Leftover Takeout",
+      "originalEmoji": "🥡",
+      "originalCal": 500,
+      "originalSugar": 8,
+      "originalNutrients": "Heavy · High sodium",
+      "swap": "Small Handful of Walnuts",
+      "swapEmoji": "🌰",
+      "swapCal": 90,
+      "swapSugar": 1,
+      "swapNutrients": "Melatonin · Omega-3",
+      "scienceNote": "Walnuts contain natural melatonin and omega-3s that support sleep quality, while the small portion prevents sleep-disrupting digestion.",
+      "benefits": [
+          "Natural melatonin supports sleep onset",
+          "Omega-3s improve sleep quality",
+          "Small portion prevents heavy digestion"
+      ]
+  }
+}

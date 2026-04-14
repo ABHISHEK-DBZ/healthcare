@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ContextPlate | Context-Driven Dietary Nudges</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- Background Animation Elements -->
+    <div class="bg-orbs">
+        <div class="bg-orb bg-orb--1"></div>
+        <div class="bg-orb bg-orb--2"></div>
+        <div class="bg-orb bg-orb--3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header__inner">
+            <a href="#" class="logo" aria-label="ContextPlate Home">
+                <div class="logo__icon">CP</div>
+                <div class="logo__text">Context<span>Plate</span></div>
+            </a>
+            <nav class="nav">
+                <a href="#how-it-works" class="nav__link">How it Works</a>
+                <a href="#swap-engine" class="nav__link">Swap Engine</a>
+                <a href="#science" class="nav__link">The Science</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="app-container">
+        <!-- Hero Section -->
+        <section class="hero fade-in-up fade-in-up--visible">
+            <div class="hero__badge">
+                <div class="hero__badge-dot"></div>
+                Engine v2.0 Active
+            </div>
+            <h1 class="hero__title">
+                Stop Counting.<br>
+                Start <span class="hero__title-gradient">Adapting.</span>
+            </h1>
+            <p class="hero__subtitle">
+                ContextPlate uses your physiological context (mood & time) to generate scientifically-backed, healthy alternative food swaps instantly. Zero judgement, pure biology.
+            </p>
+        </section>
+
+        <!-- Context Input Section -->
+        <section id="swap-engine" class="context-section fade-in-up fade-in-up--visible">
+            <h2 class="context-section__title">1. Define Your Context</h2>
+            
+            <div class="context-grid">
+                <!-- Mood Context -->
+                <div class="glass-card context-card">
+                    <div class="context-card__header">
+                        <div class="context-card__icon">🧠</div>
+                        <div>
+                            <div class="context-card__label">Current Baseline</div>
+                            <div class="context-card__desc">How are you feeling?</div>
+                        </div>
+                    </div>
+                    <div class="option-grid" id="moodGrid" role="group" aria-label="Select Mood">
+                        <button class="option-btn" data-mood="stressed" aria-pressed="false">
+                            <span class="option-btn__emoji">😫</span>
+                            Stressed
+                        </button>
+                        <button class="option-btn" data-mood="tired" aria-pressed="false">
+                            <span class="option-btn__emoji">🥱</span>
+                            Fatigued
+                        </button>
+                        <button class="option-btn" data-mood="bored" aria-pressed="false">
+                            <span class="option-btn__emoji">😐</span>
+                            Bored
+                        </button>
+                        <button class="option-btn" data-mood="anxious" aria-pressed="false">
+                            <span class="option-btn__emoji">😰</span>
+                            Anxious
+                        </button>
+                        <button class="option-btn" data-mood="happy" aria-pressed="false">
+                            <span class="option-btn__emoji">🎉</span>
+                            Celebratory
+                        </button>
+                        <button class="option-btn" data-mood="focused" aria-pressed="false">
+                            <span class="option-btn__emoji">🎯</span>
+                            Focused
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Craving Context -->
+                <div class="glass-card context-card">
+                    <div class="context-card__header">
+                        <div class="context-card__icon">🤤</div>
+                        <div>
+                            <div class="context-card__label">Sensory Drive</div>
+                            <div class="context-card__desc">What do you want?</div>
+                        </div>
+                    </div>
+                    <div class="option-grid" id="cravingGrid" role="group" aria-label="Select Craving">
+                        <button class="option-btn" data-craving="sweet" aria-pressed="false">
+                            <span class="option-btn__emoji">🍩</span>
+                            Sweet
+                        </button>
+                        <button class="option-btn" data-craving="salty" aria-pressed="false">
+                            <span class="option-btn__emoji">🥨</span>
+                            Salty
+                        </button>
+                        <button class="option-btn" data-craving="crunchy" aria-pressed="false">
+                            <span class="option-btn__emoji">🍘</span>
+                            Crunchy
+                        </button>
+                        <button class="option-btn" data-craving="creamy" aria-pressed="false">
+                            <span class="option-btn__emoji">🍦</span>
+                            Creamy
+                        </button>
+                        <button class="option-btn" data-craving="spicy" aria-pressed="false">
+                            <span class="option-btn__emoji">🌶️</span>
+                            Spicy
+                        </button>
+                        <button class="option-btn" data-craving="savory" aria-pressed="false">
+                            <span class="option-btn__emoji">🍖</span>
+                            Savory / Umami
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Generate Action -->
+            <div class="generate-section">
+                <button id="generateBtn" class="generate-btn" disabled>
+                    Select Context to Generate
+                </button>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="resultsSection" class="results-section">
+            <h2 class="context-section__title">2. Contextual Swap Recommendation</h2>
+            
+            <div class="results-grid">
+                <!-- Visual Swap -->
+                <div class="glass-card result-card result-card--swap">
+                    <div class="swap-item swap-item--original">
+                        <div class="swap-item__label">Urge</div>
+                        <span class="swap-item__emoji" id="origEmoji">🍫</span>
+                        <div class="swap-item__name" id="origName">Chocolate Bar</div>
+                        <div class="swap-item__desc" id="origDesc">High sugar, low fiber</div>
+                    </div>
+
+                    <div class="swap-arrow">➔</div>
+
+                    <div class="swap-item swap-item--healthy">
+                        <div class="swap-item__label">Optimal Swap</div>
+                        <span class="swap-item__emoji" id="swapEmoji">🍫🌰</span>
+                        <div class="swap-item__name" id="swapName">Dark Choc + Almonds</div>
+                        <div class="swap-item__desc" id="swapDesc">Magnesium + Healthy fats</div>
+                    </div>
+                </div>
+
+                <!-- Health Metrics -->
+                <div class="glass-card result-card result-card--metrics">
+                    <h3 class="info-card__title" style="margin-bottom: 24px; text-align: center;">Biological Impact</h3>
+                    <div class="ring-container" id="metricsContainer">
+                        <!-- Rings generated by JS -->
+                    </div>
+                </div>
+
+                <!-- Science Context -->
+                <div class="glass-card result-card info-card">
+                    <h3 class="info-card__title">
+                        <span style="font-size: 20px;">🔬</span> The Science
+                    </h3>
+                    <p style="color: var(--text-secondary); font-size: 14px; margin-bottom: 20px; line-height: 1.6;" id="scienceNote">
+                        Dark chocolate contains flavonoids that reduce cortisol levels...
+                    </p>
+                    <ul class="info-card__list" id="benefitsList">
+                        <!-- Benefits generated by JS -->
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="app-container">
+            <div class="footer__inner">
+                <div class="footer__badge">
+                    <span style="color: var(--accent-success)">●</span> Stateless Architecture
+                </div>
+                <div class="footer__text">
+                    ContextPlate &copy; 2026 | Built for AMD Slingshot Hackathon
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast Container -->
+    <div id="toastContainer" class="toast-container" aria-live="polite"></div>
+
+    <script type="module" src="js/ui.js"></script>
+</body>
+</html>
